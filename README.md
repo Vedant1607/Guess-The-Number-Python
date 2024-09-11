@@ -8,7 +8,7 @@ Welcome to the Number Guessing Game, a fun and interactive console-based game wh
 
 ### Hints: Get feedback if your guess is too high or too low, helping you zero in on the correct number.
 
-#### Randomized Gameplay: The target number is randomly generated each time, ensuring a unique experience with each playthrough.
+### Randomized Gameplay: The target number is randomly generated each time, ensuring a unique experience with each playthrough.
 
 ## How to Play
 
